@@ -11,7 +11,8 @@ skills:
   - item: 3D Printing
 
 workflows:
-  - item: Git & Github
+  - item: Git
+  - item: Github
 
 OS:
   - item: Windows
