@@ -10,16 +10,16 @@ logo: https://raiyanh717.github.io/img/domain.ico
 social:
   - title: resume
     url: https://docs.google.com/document/d/1cT8ynwUV-9VBgzOhrnfe4leLEc17mS8G9bgoUkaVG8U/preview
-  - title: email
-    url: mailto:r17hossain@gmail.com
   - title: twitter
     url: https://twitter.com/RyanHossain3
-  - title: instagram
-    url: https://instagram.com/raiyan_hossain14
   - title: github
     url: https://github.com/raiyanh717
   - title: linkedin
     url: https://www.linkedin.com/in/raiyan-hossain-/
+  - title: email
+    url: mailto:r17hossain@gmail.com
+  - title: instagram
+    url: https://instagram.com/raiyan_hossain14
 
 # Build settings
 markdown: kramdown
