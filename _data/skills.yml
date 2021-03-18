@@ -15,6 +15,8 @@ workflows:
   - item: Github
   - item: Slack
   - item: Discord
+  - item: IntelliJ IDEA 
+  - item: Eclipse
 
 OS:
   - item: Windows
