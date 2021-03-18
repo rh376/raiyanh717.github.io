@@ -13,6 +13,8 @@ skills:
 workflows:
   - item: Git
   - item: Github
+  - item: Slack
+  - item: Discord
 
 OS:
   - item: Windows
