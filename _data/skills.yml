@@ -9,6 +9,7 @@ skills:
   - item: G Suite
   - item: Wireshark
   - item: Fiddler
+  - itme: MobaXterm
 
 workflows:
   - item: Git
