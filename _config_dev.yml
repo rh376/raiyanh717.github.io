@@ -14,12 +14,12 @@ social:
     url: https://github.com/raiyanh717
   - title: linkedin
     url: https://www.linkedin.com/in/raiyan-hossain-/
+  - item: handshake
+    url: https://njit.joinhandshake.com/users/23908887
   - title: email
     url: mailto:r17hossain@gmail.com
   - title: instagram
     url: https://instagram.com/raiyan_hossain14
-  - title: twitter
-    url: https://twitter.com/RyanHossain3
 
 # Build settings
 markdown: kramdown
