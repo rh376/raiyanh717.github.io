@@ -4,7 +4,7 @@ languages:
   - item: HTML
   - item: CSS
 
-skills:
+technologies:
   - item: MS Office
   - item: G Suite
   - item: Wireshark
