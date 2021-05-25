@@ -1,6 +1,7 @@
 languages:
   - item: Python
   - item: Java (JavaFx)
+  - item: JavaScript
   - item: HTML
   - item: CSS
 
@@ -13,6 +14,9 @@ technologies:
 
 workflows:
   - item: Git
+  - item: Visual Studio Code
+  - item: Angular
+  - item: StackBlitz
   - item: Github
   - item: Slack
   - item: Discord
