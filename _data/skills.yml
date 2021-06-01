@@ -3,7 +3,7 @@ languages:
   - item: Java (JavaFx)
   - item: JavaScript
   - item: HTML
-  - item: CSS
+  - item: SCSS/CSS
 
 technologies:
   - item: MS Office
