@@ -14,14 +14,14 @@ technologies:
 
 workflows:
   - item: Git
-  - item: Visual Studio Code
+  - item: VS Code
+  - item: VS 2019
   - item: Angular
   - item: StackBlitz
   - item: Github
   - item: Slack
   - item: Discord
   - item: IntelliJ IDEA 
-  - item: Eclipse
 
 OS:
   - item: Windows
