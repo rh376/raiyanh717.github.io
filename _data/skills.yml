@@ -18,10 +18,10 @@ workflows:
   - item: VS 2019
   - item: Angular
   - item: StackBlitz
+  - item: IntelliJ IDEA
   - item: Github
   - item: Slack
   - item: Discord
-  - item: IntelliJ IDEA 
 
 OS:
   - item: Windows
