@@ -4,6 +4,7 @@ languages:
   - item: JavaScript
   - item: HTML
   - item: SCSS/CSS
+  - item: TypeScript
 
 technologies:
   - item: MS Office
