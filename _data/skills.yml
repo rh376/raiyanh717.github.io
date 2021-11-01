@@ -26,3 +26,4 @@ workflows:
 OS:
   - item: Windows
   - item: macOS
+  - item: Ubuntu (2017)
