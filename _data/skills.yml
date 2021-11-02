@@ -2,9 +2,9 @@ languages:
   - item: Python
   - item: Java (JavaFx)
   - item: JavaScript
+  - item: TypeScript
   - item: HTML
   - item: SCSS/CSS
-  - item: TypeScript
 
 technologies:
   - item: MS Office
